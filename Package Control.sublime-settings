@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Git",
+		"GitGutter",
+		"Highlight Whitespaces",
+		"INI",
+		"Language - French - Français",
+		"LaTeXTools",
+		"Package Control",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"Simple Print Function",
+		"SublimeGit",
+		"SublimePythonIDE",
+		"Sublimerge Pro",
+		"Tcsh and Csh Mode",
+		"Theme - Nil",
+		"VAlign",
+		"WordHighlight",
+		"Wrap Plus"
+	]
+}

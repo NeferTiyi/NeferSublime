@@ -1,0 +1,14 @@
+{
+        "scope": "text.tex.latex",
+
+        "completions":
+        [
+                { "trigger": "un",    "contents": "\\uline{$1}$0"},
+                { "trigger": "dyn",   "contents": "\\dyn{$1}$0"},
+                { "trigger": "tl",    "contents": "\\tl{$1}$0"},
+                { "trigger": "fig",   "contents": "\\fig{$1}$0"},
+                { "trigger": "og",    "contents": "\\og $1 \\fg$0"},
+                { "trigger": "hiero", "contents": "\\begin{hieroglyph}\n\t $1 \n\\end{hieroglyph}\n"},
+                { "trigger": "ovr",   "contents": "\\oeuvre{$1}$0"}
+        ]
+}

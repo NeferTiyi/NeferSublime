@@ -1,0 +1,50 @@
+{
+	"added_words":
+	[
+		"Gehl„©nite",
+		"Gehl„©nite",
+		"Gla„ßurant"
+	],
+	"always_show_minimap_viewport": true,
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Tubnil (SublimePythonIDE).tmTheme",
+	"colored_folder_glyphs": true,
+	"default_line_ending": "lf",
+	"dictionary": "Packages/Language - French - Fran√ßais/fr_FR.dic",
+	"draw_centered": true,
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"enable_tab_scrolling": false,
+	"fallback_encoding": "UTF-8",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Highlight Whitespaces",
+		"Wrap Plus",
+		"Vintage",
+		"Git",
+		"WordHighlight",
+		"BracketHighlighter"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"rulers":
+	[
+		0,
+		72
+	],
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"sidebar_folders": true,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Nil.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": false,
+	"wrap_width": 72
+}
